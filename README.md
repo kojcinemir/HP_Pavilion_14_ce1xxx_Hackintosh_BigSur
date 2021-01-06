@@ -1,4 +1,4 @@
-# HP_Pavilion_ce1xxx_Hackintosh_BigSur
+# HP_Pavilion_14_ce1xxx_Hackintosh_BigSur
 Guide on how to install BigSur OS on HP Pavilion 14 
 
 ## Hardware configuration
