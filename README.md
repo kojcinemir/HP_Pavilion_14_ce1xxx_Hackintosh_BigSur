@@ -2,6 +2,10 @@
 Guide on how to install BigSur OS on HP Pavilion 14 
 
 ## Hardware configuration
-+ Intel i5 - 8265u ( Whiskey Lake )
-+ Intel UHD 620
-+ Wifi + BT ( Realtek RTL8822BE ) // Not compatible with BigSur. Replaced with Intel AC 7265 
+| Component | Model | Comment |
+| --- | --- | --- |
+| CPU | Intel i5 - 8265u | Whiskey Lake|
+| GPU | Intel UHD 620 | 
+| WLAN + BT | Realtek RTL8822BE | Replaced with Intel AC 7265 |
+| Touchpad | Synaptics |
+|Storage | WDC PC SN520 SDAPNUW 256GB | 
