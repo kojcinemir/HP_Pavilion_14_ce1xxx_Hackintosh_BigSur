@@ -24,4 +24,4 @@ Guide on how to install BigSur OS on HP Pavilion 14
 + Trackpad with gestures ( some of the gestures involving 3 or more fingers are little glitchy )
 + Native CPU power managment
 + Battery indicator 
-+ Keyboard all media keys
++ Keyboard ( all media keys ) 
