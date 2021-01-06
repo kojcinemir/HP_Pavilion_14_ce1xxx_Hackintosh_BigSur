@@ -10,3 +10,18 @@ Guide on how to install BigSur OS on HP Pavilion 14
 | WLAN + BT | Realtek RTL8822BE | Replaced with Intel AC 7265 |
 | Touchpad | Synaptics |
 | Storage | WDC PC SN520 SDAPNUW 256GB | 
+
+
+## Working
++ Graphics ( GPU Acceleration )
++ Brightness
++ Audio
++ Microphone
++ HDMI ( tested with 1080P resolution )
++ Wifi
++ Bluetooth 
++ Sleep / Wake
++ Trackpad with gestures ( Some of the gestures involving 3 or more fingers are little glichy )
++ Native CPU power managment
++ Battery indicator 
++ Keyboard all media keys
