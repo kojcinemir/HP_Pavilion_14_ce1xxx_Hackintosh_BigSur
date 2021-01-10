@@ -28,3 +28,8 @@ Guide on how to install BigSur OS on HP Pavilion 14
 + Native CPU power managment
 + Battery indicator 
 + Keyboard ( all media keys ) 
+
+
+# Credits
+
+[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
