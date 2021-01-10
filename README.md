@@ -1,4 +1,7 @@
 # HP_Pavilion_14_ce1xxx_Hackintosh_BigSur
+# At the moment I don't have time to write full information about EFI configuration
+# I've uploaded EFI_Install ( Used to boot and install OS ) and EFI_PostInstall ( Final EFI for the OS )
+# As soon as I get time I will do the proper documentation
 Guide on how to install BigSur OS on HP Pavilion 14 
 
 ## Hardware configuration
